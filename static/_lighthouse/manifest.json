@@ -1,11 +1,11 @@
 [
   {
-    "url": "http://localhost:37157/",
+    "url": "http://localhost:45425/",
     "isRepresentativeRun": false,
     "htmlPath": "/home/runner/work/gatsby/gatsby/public/_lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/gatsby/gatsby/public/_lighthouse/_.report.json",
     "summary": {
-      "performance": 0.88,
+      "performance": 0.82,
       "accessibility": 0.97,
       "best-practices": 1,
       "seo": 0.94,
@@ -13,7 +13,7 @@
     }
   },
   {
-    "url": "http://localhost:37157/",
+    "url": "http://localhost:45425/",
     "isRepresentativeRun": false,
     "htmlPath": "/home/runner/work/gatsby/gatsby/public/_lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/gatsby/gatsby/public/_lighthouse/_.report.json",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "url": "http://localhost:37157/",
+    "url": "http://localhost:45425/",
     "isRepresentativeRun": true,
     "htmlPath": "/home/runner/work/gatsby/gatsby/public/_lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/gatsby/gatsby/public/_lighthouse/_.report.json",
