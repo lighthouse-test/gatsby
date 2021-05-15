@@ -1,2 +1,0 @@
-(self.webpackChunk_lighthouse_test_gatsby=self.webpackChunk_lighthouse_test_gatsby||[]).push([[218],{938:function(t,e,n){"use strict";n.r(e),n.d(e,{default:function(){return r}});var s=n(552),u=n(294),r=function(t){function e(){return t.apply(this,arguments)||this}return(0,s.Z)(e,t),e.prototype.render=function(){return u.createElement("h2",null,"Seems like this page doesn't exist :(")},e}(u.Component)}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-db9f00b7cafde0aaf899.js.map
