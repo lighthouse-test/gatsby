@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to @lighthouse-test 👋</h1>
 <p>
-  <a href="https://github.com/lighthouse-test/angular/actions/workflows/lighthouse.yml" target="_blank">
-    <img alt="Maintenance" src="https://github.com/lighthouse-test/angular/actions/workflows/lighthouse.yml/badge.svg" />
+  <a href="https://github.com/lighthouse-test/gatsby/actions/workflows/lighthouse.yml" target="_blank">
+    <img alt="Maintenance" src="https://github.com/lighthouse-test/gatsby/actions/workflows/lighthouse.yml/badge.svg" />
   </a>
   <a href="https://github.com/lighthouse-test/gatsby/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
